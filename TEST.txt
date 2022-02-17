@@ -1,1 +1,9 @@
 feature/newTask
+
+
+master
+
+develop
+feature
+release
+hoxfix
